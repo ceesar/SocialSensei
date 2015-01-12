@@ -5,5 +5,8 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="app_id">648326571961163</string>
+    <string name="app_id_2">648326571961163</string>
+    <string name="title_activity_facebook_share">FacebookShareActivity</string>
+    <string name="loading_msj">Compartiendo...</string>
 
 </resources>
